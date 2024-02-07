@@ -99,8 +99,9 @@ The resources I have used (excluding materials from LearnJCU) for this week incl
 
 - Article: Markdown
 > Understanding Markdown and using version control on platform such as GitHub are valuable skills to possess. 
-> Having such skills enable me to collaborate well in teams and project management. Learning Markdowns highlights 
-> the importance of effective communication and practicing documentation standards that are widely used in the industry. 
+> Having such skills enable me to collaborate well in teams and project management. Learning this concept highlights 
+> the importance of effective communication and practicing documentation standards that are widely used in the industry.
+> This allow me to be an effective team member when working for future collaborative work. 
 
 - Guides: Get started with Bootstrap
 > The Bootstrap website offered extensive instructions, however focusing on the essential information such as 
@@ -111,4 +112,6 @@ The resources I have used (excluding materials from LearnJCU) for this week incl
 - Guides: GitHub Pages
 > From this experience, I learn that index.html files play a crucial role in hosting websites. When the file is not 
 > present in the main directory, then trying to access the webpage from the root URL will not automatically show the 
-> content.
+> content. This explains why my first static website was showing error 404 upon first deployment. I realized that the
+> webpages files were inside the "startup" folder I initially created when starting my pract work. Copying the files
+> and putting them on the main repository solved the issue. 
