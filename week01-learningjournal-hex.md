@@ -80,7 +80,7 @@ The resources I have used (excluding materials from LearnJCU) for this week incl
 
 ## Career/Employability/Learning Insights
 - LinkedIn Video: Introduction to Web Design and Development
-> While it was a rather extensive course to go watch, I find that taking breaks in between and resuming it at a later
+> While it was a rather extensive course to go through, I find that taking breaks in between and resuming it at a later
 > time helped me digest the information and prevented me from suffering information overload. Additionally, taking notes
 > on a notebook and summarizing the information helped in remembering the concept.
 
