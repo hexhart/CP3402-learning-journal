@@ -58,3 +58,23 @@ later date as I proceed to develop my startup website using Joomla CMS.
 
 
 ## Career/Employability/Learning Insights
+Learning WordPress as the main learning video while simultaneously installing a different CMS can be quite confusing,
+however I came to understand that both CMS serves the same purpose. And to reflect on this week's practical, it may
+seem like this activity tests my ability to transfer the skill and knowledge and apply it to a different context. For 
+instance, in the context of programming and programming languages. Despite having different languages used and syntax, 
+they still followed similar concept and purpose. Applying this sort of philosophy of knowledge and skill transfer may 
+be beneficial when working in the IT industry as it is expected of us Graduates to be able to learn and adapt quickly 
+to the rather changing work environment and advancement of technology.
+
+Besides that, highlighting more on my previous learning journal, having a pen and paper allowed me to recall my learning 
+quite effectively. That said, being able to process the information in my mind and put it on to writing helped me 
+remember more rather than just watching and listening. However, I realize that this method can be time-consuming as 
+I find myself repeatedly playing back the video quite frequently than what I’m supposed to. This result in delaying 
+my study progress. Based from this, I need to adjust the way how I study when it comes to viewing lecture videos more 
+effectively.
+
+Other than that, in terms of version control, the learning video made me evaluate my current way of doing projects. 
+In retrospective, I usually keep backup copies of my files locally with version numbers. Applying version control 
+techniques eliminate the need to do so. It is also quite handy when it comes to comparing and tracking changes, 
+especially for collaborative projects. Thus, being able to maintain consistency and proficient in keeping version 
+control would benefit me professionally.
