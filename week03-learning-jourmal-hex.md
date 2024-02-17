@@ -43,7 +43,16 @@ collaborators updates after reviewing,
 
 ## Career/Employability/Learning Insights
 
-Group Interview: At the beginning of the session, we find it hard to decide on the process of conducting the interview.
+* Expert Advise and Applying Practical Feedback:
+  - I learned to write my journal as simple and shorter than what I'm used it,
+  - Applying such approach enables comprehensive content and improved writing skills,
+  - It also saves time having to write length paragraphs.
+  - Using bullet points enable content-focused delivery of message.
+  - Skill obtained is useful for technical documentation that is required in the IT workforce and Team Collab work.
+
+
+* Group Interview: <br> 
+At the beginning of the session, we find it hard to decide on the process of conducting the interview.
 So the group proposed a pseudo-algorithm to go through the interview, that includes diving ourselves into Group A and B
 consisting of 5 members, each has to Interview the other team member for 2 minutes and switch to another member of the
 other group. From this experience, I noticed that at the beginning of the interview session the hefty amount of interview
