@@ -7,14 +7,11 @@ The learning activities for this week includes: <br>
 * Discussing with peers on their approach to implement Vagrant on Windows OS,
 * Following tutorials from
 
-* Following guides to install Debian, NGINX, MySQL and PHP on Droplets (DigitalOcean) as a pre-requisite task before attempting the practical
-
-
-Learning resources used:
-- [LinkedIn Learning: WordPress 5 Essential Training:](https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?resume=false&u=2223545)
-- [LinkedIn Learning: Version Control](https://www.linkedin.com/learning/version-control-for-everyone-2/version-control-it-s-not-just-for-programmers?u=2223545)
-- [Guide: How to Install Linux NGINX, MySQL, PHP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04)
-- [Joomla Tutorial for Beginners (Step-by-Step)](https://websitesetup.org/build-website-with-joomla/)
+* Learning resources used:
+  - [LinkedIn Learning: WordPress 5 Essential Training:](https://www.linkedin.com/learning/wordpress-5-essential-training/wordpress-an-introduction?resume=false&u=2223545)
+  - [LinkedIn Learning: Version Control](https://www.linkedin.com/learning/version-control-for-everyone-2/version-control-it-s-not-just-for-programmers?u=2223545)
+  - [Guide: How to Install Linux NGINX, MySQL, PHP](https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-20-04)
+  - [Joomla Tutorial for Beginners (Step-by-Step)](https://websitesetup.org/build-website-with-joomla/)
 
 
 ## Estimated Hours
