@@ -40,7 +40,7 @@ The learning activities for this week includes: <br>
    - Left panel enables navigation to each of the functions such as creating a post or a page for the WordPress website, and also access to other customization settings.
    - Hovering over the menu list in the left pane will open sub-menus for easy access.
 
-4) Changing WordPress Site URLs
+4) Reading: Changing WordPress Site URLs ([https://www.wpbeginner.com/wp-tutorials/how-to-change-your-wordpress-site-urls-step-by-step/)
    - Each created pages has different URLs, this update through General Settings in the WP Dashboard
    - WordPress Address and Site URL are needed to be edited.
    - Last part of the website URL is called the "Slug", points to a specific page.
