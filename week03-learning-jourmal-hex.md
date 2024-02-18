@@ -45,7 +45,6 @@ The learning activities for this week includes: <br>
    - WordPress Address and Site URL are needed to be edited.
    - Last part of the website URL is called the "Slug", points to a specific page.
    - Setting a page as the Main Homepage will remove the slug.
-   - 
    
 
 
