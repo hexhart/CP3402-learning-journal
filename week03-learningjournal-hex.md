@@ -2,10 +2,10 @@
 
 ## Learning Activities & Resources
 The learning activities for this week includes: <br>
-* Getting feedback on previous practical submission by attending the practical class session
-* Analyzing and reflecting on the feedback by applying the changes done to this journal
+* Obtaining feedback on previous practical submission by attending the practical class session,
+* Analyzing and reflecting on the feedback by applying the suggested changes the current journal (Trial and Error),
 * Asking peers on how they implemented their website, which website hosting was used.
-* Trying out another web hosting services [CloudAccess.net](https://www.cloudaccess.net/) and implement WordPress.
+* Trying out another web hosting services [CloudAccess.net](https://www.cloudaccess.net/) to implement WordPress.
 * Learning Resources used:
   - Videos:
     - [WordPress: Workflows](https://www.linkedin.com/learning/wordpress-workflows-2/our-workflows?autoSkip=true&resume=false&u=2223545)
@@ -15,36 +15,78 @@ The learning activities for this week includes: <br>
     - [CloudAccess: Media in WordPress: Embedded Imageins, Image Galleries & Feature Images](https://www.cloudaccess.net/wordpress-tutorials/143-getting-started/813-tutorial-8-media-in-wordpress-embedded-images-image-galleries-featured-images.html)
     - [Creating WordPress Pages](https://www.cloudaccess.net/wordpress-tutorials/143-getting-started/814-wordpress-tutorial-8-creating-pages.html)
   - Reading: 
-    - [CloudAccess: Cloud Control Panel (CCP)](https://www.cloudaccess.net/features/cloud-control-panel.html)
-    - [Child Themes](https://developer.wordpress.org/themes/advanced-topics/child-themes/)    
+    - [CloudAccess: Cloud Control Panel (CCP)](https://www.cloudaccess.net/features/cloud-control-panel.html) 
     - [Changing WordPress Site URLs](https://www.wpbeginner.com/wp-tutorials/how-to-change-your-wordpress-site-urls-step-by-step/)
 
 ## Estimated Hours
 **Estimated hours**: 8 Hours
 
 ## Content Insights
-1) LinkedIn Learning Video: [WordPress: Workflows](https://www.linkedin.com/learning/wordpress-workflows-2/our-workflows?autoSkip=true&resume=false&u=2223545)
-   - Creating blocks on WordPress is possible using WordPress Block Editor
-   - Typing content into the editor, either text or paragraphs, instantly creates Blocks,
-   - Hitting the Backspace button, removes the content.
-   - This Block Editor feature eliminates the need to re-write the CSS style codes for our website.
+* LinkedIn Video: [WordPress: Workflows](https://www.linkedin.com/learning/wordpress-workflows-2/our-workflows?autoSkip=true&resume=false&u=2223545)
+   - I chose to watch "Building Your First WordPress Site" as this is specific to the task this week. 
+   - It is particularly important to setup a Domain or URL for a website so it is easy to remember as opposed to using IP addresses,
+   - No matter what hosting service is used, it is important to have a Domain name.
+   - Recommended site to get a domain: [Hover](https://www.hover.com/)
+   - Hosting a website requires a server, in this case virtual machines that are provisioned by a third party web hosting company (CloudAccess, DigitalOcean, etc),
+   - Server can either be configured through CLI or just a few clicks, to simplify process I chose the latter.
 
-2) Cloud Access Cloud Control Panel (CCP): [Cloud Control Panel (CCP)](https://www.cloudaccess.net/features/cloud-control-panel.html) & [CloudAccess: Launching & Accessing Your Free WordPress Site](https://www.cloudaccess.net/wordpress-tutorials/143-getting-started/808-wordpress-tutorial-1-launching-your-site.html)<br>
-   - Overview on how to use CloudAccess CCP dashboard,
-   - To begin using WordPress, Click on CCP Home, under Actions column beside the hosted website, click on Manage or simply login to enter WordPress dashboard.
 
-3) Tutorial: [CloudAccess: WordPress Dashboard](https://www.cloudaccess.net/wordpress-tutorials/143-getting-started/809-tutorial-2-wordpress-dashboard-overview.html)  <br>
-   - Short video tutorial how on usin the WordPress Dashboard,
+* Launching & Accessing Free WordPress Site
+   - Register an account for the web hosting website, or simply login (if account already exist)
+   - Access CCP dashboard and select Shop to view the services offered, in this case locate the web site hosting services,
+   - launch the free site by clicking on the "Launch" button which leads to selecting the type of CMS used for the site (WordPress in this case),
+   - Clicking on the "Start Now" button leads the next step of choosing the Domain Name for the website,
+   - Following through the steps until Checkout stage, at this point the step is complete
+   - Viewing the new site is accessible through CCP Home under the Free Site tab of the My Products page.
+
+
+* WordPress Dashboard
+   - Short video tutorial how on using the WordPress Dashboard,
    - Realizing the two modes of the WordPress: Front end (Public website view) and Dashboard (Administration),
    - Customizing the dashboard panels made easy by clicking on Screen Options, to add or remove screen elements in the Dashboard Homepage.
    - Left panel enables navigation to each of the functions such as creating a post or a page for the WordPress website, and also access to other customization settings.
    - Hovering over the menu list in the left pane will open sub-menus for easy access.
 
-4) Reading: Changing WordPress Site URLs ([https://www.wpbeginner.com/wp-tutorials/how-to-change-your-wordpress-site-urls-step-by-step/)
-   - Each created pages has different URLs, this update through General Settings in the WP Dashboard
+
+* Using WordPress Themes
+   - Accessible through "Appearance" menu located at the left pane of WP Dashboard,
+   - By default, there are 3 to choose from,
+   - Add a new theme by clicking on the Add New Theme button at the top or the big + icon among the saved theme tiles,
+   - In the Add Themes window, select activate to apply the theme to the current WordPress website that was published (applies to pages as well),
+   - Saving a new theme only requires clicking on the "Install" button.
+   - Activate themes will allow Customization while some themes require to install some third party software to edit the Themes (some are paid)
+
+
+* Media in WordPress
+   - Media elements can be added to Page content through clicking the Plus icon in the top left corner of the WP Block Editor,
+   - Alternatively, select the + icon in the content area of the editor and type in Media in the search to show all the available options,
+   - Image enables uploading our content and store it into the WordPress Media Library,
+   - I will experiment further with other media in the future, for now Images and Text would do.
+
+
+* Creating WordPress Pages
+   - On WP Dashboard, select Pages from the left menu panel and click on Add New Page. All Pages will view all the pages created.
+   - A pop-up window will show a pattern (a template) to build our Page content from.
+   - Edit the content through clicks and shortcut buttons. Blocks are heavily used in this WP Block Editor.
+   - Right Panel enables customization of the Page or Block properties,
+   - Publish Button on the top right corner of the WP Block Editor will create the new Page.
+ 
+
+* Cloud Access Cloud Control Panel (CCP): [Cloud Control Panel (CCP)](https://www.cloudaccess.net/features/cloud-control-panel.html) & [CloudAccess: Launching & Accessing Your Free WordPress Site](https://www.cloudaccess.net/wordpress-tutorials/143-getting-started/808-wordpress-tutorial-1-launching-your-site.html)<br>
+   - Access the panel through CCP HOME link,
+   - On the CCP Dashboard, active hosting shows how many sites are being hosted.
+   - Under "Your Products" it shows a list of services used for CloudAccess. 
+   - Free Sites shows the number of website that were created and hosted.
+   - Selecting the Manage button near the hosted website enables configuring the Application, Domain, Server and Security as well as Billing.
+   - To begin using WordPress, click on Application under Manage and select "Login to WordPress" or simply click on the Login button at the list of hosted free sites panel.
+   
+
+* Changing WordPress Site URLs
+   - Each created pages has different URLs, this is updated through General Settings in the WP Dashboard
    - WordPress Address and Site URL are needed to be edited.
    - Last part of the website URL is called the "Slug", points to a specific page.
    - Setting a page as the Main Homepage will remove the slug.
+   - [Several methods available](https://www.wpbeginner.com/wp-tutorials/how-to-change-your-wordpress-site-urls-step-by-step/) to edit [WordPress website URL, will continue to experiment on this next time
    
 
 
@@ -67,10 +109,16 @@ The learning activities for this week includes: <br>
   adaption and application of the skills gained.
 
 
-* Group Interview: <br> 
-  - Prioritization is Key: Through the interview process, I learned the importance of prioritizing questions based on their relevance and the limited time available. Not all questions need to be asked if they don't fit within the time frame.
-  - Iteration Leads to Improvement: The iterative nature of the interview process allowed me to refine and improve my approach. With each iteration, I fine-tuned my questions to be shorter and more focused, enabling me to gather essential information efficiently.
-  - Understanding Selection Criteria: It became clear that understanding the selection criteria for team members is crucial. This includes identifying preferred roles, availability, strengths, and weaknesses. Having clarity on these aspects helped streamline the interview process.
+* Group Interview: <br>
+- Prioritization:
+  - I learned the importance of prioritizing questions based on their relevance while going through the interview process.
+  - The limited time available made me realize that not all questions need to be asked if they don't fit within the time frame.
+  - Prioritization is useful as knowing what needs to be done first is really helpful for me. It's important in the workplace because 
+  the tasks we have can change a lot. If we don't prioritize well, we might not finish things on time.
+
+- Iteration Leads to Improvement: The iterative nature of the interview process allowed me to refine and improve my approach. With each iteration, I fine-tuned my questions to be shorter and more focused, enabling me to gather essential information efficiently.
+
+- Understanding Selection Criteria: It became clear that understanding the selection criteria for team members is crucial. This includes identifying preferred roles, availability, strengths, and weaknesses. Having clarity on these aspects helped streamline the interview process.
   - Comparing Selection Criteria: By formulating my own set of questions and observing what my peers asked, I gained insights into the different selection criteria used within the group. This comparison allowed me to evaluate the differences and similarities in our approaches.
   - Flexibility in Questioning: Learning to adapt questions to fit the time constraints was a valuable skill acquired during the interview sessions. Short and simple questions proved to be more effective in gaining insights into potential team members.
   - Importance of Active Listening: Throughout the interviews, I realized the significance of active listening. Paying attention to responses allowed me to better understand each candidate and make informed decisions.
