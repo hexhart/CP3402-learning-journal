@@ -93,7 +93,7 @@ The learning activities for this week includes: <br>
 
 ## Career/Employability/Learning Insights
 
-* Expert Advise and Applying Practical Feedback:
+### 1. Expert Advise and Applying Practical Feedback:
   - Learning to write journals in a more simple and shorter way to make it more comprehensive
   - Applying such approach enables comprehensive content and improved writing skills,
   - Avoid write lengthy paragraphs to save time.
@@ -101,7 +101,7 @@ The learning activities for this week includes: <br>
   - Skill obtained is useful for technical documentation that is required in the IT workforce and Team Collab work.
 
 
-* Research Materials: <br>
+### 2. Research Materials: <br>
   - Absorbing new information does not necessary require taking it in order or simultaneously,
   - Always prioritize to pick the topic or workflow that's specific to my personal goal and objective,
   - Applying this technique saves amount of time having to follow through and read,
@@ -109,21 +109,42 @@ The learning activities for this week includes: <br>
   adaption and application of the skills gained.
 
 
-* Group Interview: <br>
+### 3. Group Interview: <br>
 - Prioritization:
   - I learned the importance of prioritizing questions based on their relevance while going through the interview process.
   - The limited time available made me realize that not all questions need to be asked if they don't fit within the time frame.
-  - Prioritization is useful as knowing what needs to be done first is really helpful for me. It's important in the workplace because 
-  the tasks we have can change a lot. If we don't prioritize well, we might not finish things on time.
+  - Prioritization is useful as knowing what needs to be done first is really helpful for me. 
+  - In the workplace, tasks change a lot. If we don't prioritize well, we might not finish things on time.
 
-- Iteration Leads to Improvement: The iterative nature of the interview process allowed me to refine and improve my approach. With each iteration, I fine-tuned my questions to be shorter and more focused, enabling me to gather essential information efficiently.
 
-- Understanding Selection Criteria: It became clear that understanding the selection criteria for team members is crucial. This includes identifying preferred roles, availability, strengths, and weaknesses. Having clarity on these aspects helped streamline the interview process.
-  - Comparing Selection Criteria: By formulating my own set of questions and observing what my peers asked, I gained insights into the different selection criteria used within the group. This comparison allowed me to evaluate the differences and similarities in our approaches.
-  - Flexibility in Questioning: Learning to adapt questions to fit the time constraints was a valuable skill acquired during the interview sessions. Short and simple questions proved to be more effective in gaining insights into potential team members.
-  - Importance of Active Listening: Throughout the interviews, I realized the significance of active listening. Paying attention to responses allowed me to better understand each candidate and make informed decisions.
-  - Effective Communication: Clear communication within the group was essential for coordinating the interview process smoothly. Ensuring everyone understood their roles and the interview structure helped maintain efficiency.
-  - Acceptance of Awkwardness: Initially, awkwardness in conversations was inevitable. However, acknowledging and accepting it as a natural part of the process helped ease tensions and fostered a more comfortable environment for discussion.
-  - Reflection and Adaptation: Reflecting on each interview session allowed me to identify areas for improvement and adapt my approach accordingly. Being open to feedback and making necessary adjustments contributed to the overall effectiveness of the process.
-  - Team Dynamics Matter: Lastly, the experience highlighted the importance of considering team dynamics when selecting members. Beyond individual skills and qualifications, compatibility within the group plays a significant role in achieving collaborative success. 
+- Iteration Leads to Improvement: 
+  - Going through each interview phase, I noticed that I was able to refine and improve my approach in interviewing. 
+  - After each interview sessions, my questions became shorter and more focused, enabling me to gather essential information efficiently.
+
+
+- Understanding Selection Criteria: 
+  - It became clear that understanding the selection criteria for team members is crucial. 
+  - This includes identifying preferred roles, availability, strengths, and weaknesses. 
+  - Having clarity on these aspects helped streamline the interview process.
+  
+
+- Comparing Selection Criteria: 
+  - By formulating my own set of questions and observing what my peers asked, I gained insights into the different selection criteria used within the group. 
+  - This comparison allowed me to evaluate the differences and similarities in our approaches and made changes appropriately.
+
+ 
+- Importance of Active Listening: 
+  - Throughout the interviews, I realized the significance of active listening. 
+  - Paying attention to responses allowed me to better understand each candidate and make informed decisions.
+ 
+
+- Reflection and Adaptation: 
+  - Reflecting on each interview session allowed me to identify areas for improvement and adapt my approach accordingly. 
+  - Being open to feedback and making necessary adjustments contributed to the overall effectiveness of the process.
+
+
+- Team Dynamics Matter: 
+  - Lastly, the experience highlighted the importance of considering team dynamics and rapport when selecting members. 
+  - I find that beyond the individual skills and qualifications, chemistry and compatibility within the group plays a 
+  - significant role in achieving collaborative success. This is proven when I worked with a great team in Design Thinking 2. 
 
