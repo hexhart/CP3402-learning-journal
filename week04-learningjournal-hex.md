@@ -7,7 +7,9 @@
 * Learning Resources used:
     - []()
     - []()
-    - []()
+    - [How to Create Your First Contact Form](https://www.youtube.com/watch?v=o2nE1P74WxQ)
+    - [WPForms: Creating First Form](https://wpforms.com/docs/creating-first-form/)
+    - [](https://wpforms.com/developers/how-to-add-custom-css-styles-for-wpforms)
 
 ## Estimated Hours
 **Estimated hours**:  Hours
@@ -18,29 +20,13 @@
    - It is particularly important to setup a Domain or URL for a website so it is easy to remember as opposed to using IP addresses,
 
 
-* 
-   - Register an account for the web hosting website, or simply login (if account already exist)
-   - Access CCP dashboard and select Shop to view the services offered, in this case locate the web site hosting services,
-
-
-
-* 
-   - Short video tutorial how on using the WordPress Dashboard,
-   - Realizing the two modes of the WordPress: Front end (Public website view) and Dashboard (Administration),
-
-
-
-* 
-   - Accessible through "Appearance" menu located at the left pane of WP Dashboard,
-   - By default, there are 3 to choose from,
-
-
-* 
-   - Media elements can be added to Page content through clicking the Plus icon in the top left corner of the WP Block Editor,
-   - Alternatively, select the + icon in the content area of the editor and type in Media in the search to show all the available options,
-
-
-
+* Vagrant: Get Started
+   - First step is to signed up for an account using GitHub account credentials, completing this step by agreeing to the Service Agreement and clicking on "Continue"
+   - On the [HashiCorp](https://developer.hashicorp.com/) homepage, click on the Vagrant shortcut button to go back to Vagrant webpage.
+   - Click on Tutorials link, and select Get Started link to start setting up Vagrant.
+   - Begin setting up Vagrant by downloading the installer from [Vagrant](https://developer.hashicorp.com/vagrant/install), select the appropriate installer suitable for my local machine
+   - Run installer, follow through the series of steps and click "Finish" button to complete installation and Select 'No' to restart the laptop later.
+   - 
 
 
 ## Career/Employability/Learning Insights
