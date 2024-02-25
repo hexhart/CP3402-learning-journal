@@ -1,12 +1,14 @@
 # Week 4 Learning Journal <br/>
 
 ## Learning Activities & Resources
-* Obtaining feedback on previous practical submission by attending the practical class session,
-* Analyzing and reflecting on the feedback by applying the suggested changes the current journal (Trial and Error),
-* Asking peers on how they implemented their website, which website hosting was used.
+* Attending the seminar class to 
+* Taking notes on practical feedback and reflecting on it by applying new approaches to writing the learning journal,
+* Conducting further research about Vagrant tool and Virtual Box and how to implement WordPress CMS locally using these tools,
+* Watching Week 4 recommended LinkedIn video to gain a better understanding on ....
+* Following installation guides and tutorials for both Vagrant and VVV
 * Learning Resources used:
     - []()
-    - []()
+    - [Ulitmate WordPress Development Workflow by Zach Adams](https://zach-adams.com/2014/09/ultimate-wordpress-development-workflow/)
     - [How to Create Your First Contact Form](https://www.youtube.com/watch?v=o2nE1P74WxQ)
     - [WPForms: Creating First Form](https://wpforms.com/docs/creating-first-form/)
     - [](https://wpforms.com/developers/how-to-add-custom-css-styles-for-wpforms)
@@ -16,33 +18,37 @@
 
 ## Content Insights
 * LinkedIn Video:
-   - I chose to watch "Building Your First WordPress Site" as this is specific to the task this week. 
-   - It is particularly important to setup a Domain or URL for a website so it is easy to remember as opposed to using IP addresses,
+   - Setting up Domain or URL for a website makes users able to locate the website as opposed to using IP addresses,
 
 
 * Vagrant: Get Started
+   - Note: To install Vagrant software on local machine
    - First step is to signed up for an account using GitHub account credentials, completing this step by agreeing to the Service Agreement and clicking on "Continue"
    - On the [HashiCorp](https://developer.hashicorp.com/) homepage, click on the Vagrant shortcut button to go back to Vagrant webpage.
    - Click on Tutorials link, and select Get Started link to start setting up Vagrant.
    - Begin setting up Vagrant by downloading the installer from [Vagrant](https://developer.hashicorp.com/vagrant/install), select the appropriate installer suitable for my local machine
    - Run installer, follow through the series of steps and click "Finish" button to complete installation and Select 'No' to restart the laptop later.
-   - 
+
+
+* VVV (Varying Vagrant Vagrants): 2. Getting Started - Installation
+   - Cloning the VVV repository using the code "git clone -b stable https://github.com/Varying-Vagrant-Vagrants/VVV.git %systemdrive%%homepath%/Desktop/bb-wordpress-projects/vvv-local"
+   - Move into the cloned directory using "cd %systemdrive%%homepath%/Desktop/bb-wordpress-projects/vvv-local"
+   - The cli command %systemdrive% represents the drive where the system is installed,
+   - %homepath% represents the path to current user's home directory,
+   - vvv-local is the directory path or folder name for the local environment,
 
 
 ## Career/Employability/Learning Insights
 
-### 1. <br>:
-  - Learning to write journals in a more simple and shorter way to make it more comprehensive
-  - Applying such approach enables comprehensive content and improved writing skills,
-
+### 1. Installing the Local Environment using Vagrant and VVV:
+  - Enter Insight here,
+  - 
 
 ### 2. CMS Plugin: <br>
-  - Absorbing new information does not necessary require taking it in order or simultaneously,
-  - Always prioritize to pick the topic or workflow that's specific to my personal goal and objective,
-
+  - Enter Insight here,
+  - 
 
 
 ### 3.  <br>
-  - I learned the importance of prioritizing questions based on their relevance while going through the interview process.
-  - The limited time available made me realize that not all questions need to be asked if they don't fit within the time frame.
-
+  - Enter Insight here,
+  - 
