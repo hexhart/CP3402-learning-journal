@@ -1,24 +1,34 @@
 # Week 4 Learning Journal <br/>
 
 ## Learning Activities & Resources
-* Attending the seminar class to 
-* Taking notes on practical feedback and reflecting on it by applying new approaches to writing the learning journal,
-* Conducting further research about Vagrant tool and Virtual Box and how to implement WordPress CMS locally using these tools,
-* Watching Week 4 recommended LinkedIn video to gain a better understanding on ....
-* Following installation guides and tutorials for both Vagrant and VVV
+* Attending the seminar class to gather additional feedback for improvement in creating my learning journal,
+* Taking notes on the feedback and reflecting on it by applying new approaches to my writing,
+* Conducting research to get familiarised with the concept of Local Environment using Vagrant tool and Virtual Box,
+* Reading and watching the recommended LinkedIn videos to gain better understanding on Modern Web Design processes and how it relates to CMS,
+* Following installation guides and tutorials videos for both implementing my local environment using Vagrant and Varying-Vagrant-Vagrants (VVV) tools.
 * Learning Resources used:
-    - []()
-    - [Ulitmate WordPress Development Workflow by Zach Adams](https://zach-adams.com/2014/09/ultimate-wordpress-development-workflow/)
+    - [LinkedIn Video: A guide to the web design process](https://www.linkedin.com/learning/mapping-the-modern-web-design-process/a-guide-to-the-web-design-process-14881661?autoplay=true&resume=false&u=2223545)
+    - [LinkedIn Video: Version Control for Everyone]()
+    - [Ultimate WordPress Development Workflow by Zach Adams](https://zach-adams.com/2014/09/ultimate-wordpress-development-workflow/)
     - [How to Create Your First Contact Form](https://www.youtube.com/watch?v=o2nE1P74WxQ)
     - [WPForms: Creating First Form](https://wpforms.com/docs/creating-first-form/)
     - [](https://wpforms.com/developers/how-to-add-custom-css-styles-for-wpforms)
 
 ## Estimated Hours
-**Estimated hours**:  Hours
+**Estimated hours**: 9 Hours
 
 ## Content Insights
 * LinkedIn Video:
    - Setting up Domain or URL for a website makes users able to locate the website as opposed to using IP addresses,
+
+* LinkedIn Video:
+   - Version Control is important to help track down changes 
+   - Commits are usually done when major changes are made to files or project,
+   - When writing commits, it always has to be written in short sentences with actionable word to describe commits made, 
+   - Pull grabs the updates from the main repository on GitHub to the local repository, 
+   - Push updates is meant to update the changes made from local environment to main repository, 
+   - Creating Branches to avoid making changes to the Main branch,
+   - 
 
 
 * Vagrant: Get Started
