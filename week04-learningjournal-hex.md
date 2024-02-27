@@ -23,11 +23,7 @@
 **Estimated hours**: 10 Hours
 
 ## Content Insights
-* LinkedIn Video:
-   - Setting up Domain or URL for a website makes users able to locate the website as opposed to using IP addresses,
-
-
-* LinkedIn Video: Version Control for Everyone
+* LinkedIn Video: A guide to the web design proces, Version Control for Everyone, Write and commit in small chunks
    - Version Control is important to manage and tracks changes made to project files that makeup the WordPress theme (for this video),
    - VC demonstrates the importance of managing large projects by keeping a record of commits made,
    - Bug tracking is easily detectable with version control,
@@ -35,19 +31,12 @@
    - WordPress uses Subversion, a centralized remote system/server that contains the repository. 
    - Other copies are working copies that doesn't actually contain the full history. 
    - For files to contain history connecting to the server is required using Git and Git SVN command. 
-
-
-* LinkedIn Video: Write and commit in small chunks
    - When making commits, focus on making small commits at a time,
    - Documentation files are written in Markdown, an industry format used across platforms like GitHub,
    - Undo options are available within the editor,
    - Version control helps to revert back any changes made after closing files,
    - While editor has undo functions, it is limited to what it can do to file once it is closed and reopened.
    - Always remember to adopt systematic versioning practices when working of any software development workflows.
-
-
-* LinkedIn Video: Write and commit in small chunks
-   - When making commits, focus on making small commits at a time,
 
 
 * Practical Reading Material 1: Ultimate WordPress Development Workflow by Zach Adams
