@@ -23,7 +23,7 @@
 **Estimated hours**: 10 Hours
 
 ## Content Insights
-* LinkedIn Video: A guide to the web design proces, Version Control for Everyone, Write and commit in small chunks
+* LinkedIn Video: A guide to the web design process, Version Control for Everyone, Write and commit in small chunks
    - Version Control is important to manage and tracks changes made to project files that makeup the WordPress theme (for this video),
    - VC demonstrates the importance of managing large projects by keeping a record of commits made,
    - Bug tracking is easily detectable with version control,
