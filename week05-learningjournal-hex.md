@@ -16,15 +16,15 @@
 **Estimated hours**: 5 Hours
 
 ## Content Insights
-* LinkedIn Video: 
+* LinkedIn: WordPress - Building Child Themes 
   - a
 
 
-* Learning Material 1: 
+* LinkedIn: Learning Responsive Web Design in the Browser
   - a
 
 
-* Learning Material 2: 
+* WordPress Article: Child Themes
   - a
 
 
