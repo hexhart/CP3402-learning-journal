@@ -1,9 +1,14 @@
 # Week 5 Learning Journal <br/>
 
 ## Learning Activities & Resources
-* Testing imports and exports of WordPress backup from Production to Local Environments,
-* Reading online guides and instructions while attempting to create the Child Themes to gain insight and understanding of this week's topic
-* Watching the LinkedIn Videos []() to understand more about this week's topic.
+* Personal practical task by testing imports and exports of WordPress backups,
+  * Exporting backup from production and importing backup files to local environment,
+  * To validate assumptions on whether backup copies of the site creates a full copy of the website's content,
+  * To get familiarized with backing up the website,
+* Reading online guides and instructions while attempting to create the Child Themes as part of this week's practical task,
+  * Learn about working with Child themes and modifying WordPress themes without affecting the parent theme,
+  * Understand more on developing websites with custom CSS over an existing theme or building it from scratch,
+* Watching the LinkedIn Videos []() to understand the concept faster while working on the practical tasks,
 * Viewing additional videos such as , as an additional learning materials to broaden my understanding of Child Themes.
 
 
