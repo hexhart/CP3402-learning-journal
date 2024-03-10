@@ -35,8 +35,22 @@
 
 
 * LinkedIn: Learning Responsive Web Design in the Browser
-  - a
-
+  - Tools suggested to use were Chrome browser and Atom Code Editor, available from atom.io,
+  - I learn that responsive and mobile-first designs employs the use of Web Browser to design the web interface instead of using traditional software such as Photoshop, or Illustrators.
+  - Mastering HTML and CSS techniques enables using the web browser as the design canvas to design a web interface that changes depending on certain situations that includes:
+    - changing the screen width, mouse click interactions, and other interactions.
+  - Using Style Tiles as a style guide to design website by placing styling elements (i.e. colours, shapes, or images) and placing them in tiles on the page.
+  - Pen and Paper seems more effective in creating web layout designs than using design software applications because:
+    - it is quicker to generate more ideas,
+    - easier to scarp mistakes and start over,
+    - mapping out the semantic structure of the html document is done instantly.
+    - provides a faster way to produce wire frames to give overall idea of the site's layout.
+  - Sketches are not required, but it is helpful to run through different ideas quickly.
+  - CSS can be used to create interactive elements that includes:
+    - changing the style of an HTML element based on certain conditions such as :hover, which change the style of an element when mose is over it,
+    - adding effects to an element by providing properties like "box-shadow" for drop shadows,
+    - using media queries "@media" to allow the creation of different layouts when the website is viewed using different screen sizes,
+  
 
 
 ## Career/Employability/Learning Insights
@@ -60,6 +74,7 @@
   - Sharing insights and interests allows me to be engaged in discussions with others that could lead to expanding my network, and also gaining new valuable skills and knowledge, allowing professional growth.
   - The account enables me to be visible to potential employers looking to hire suitable candidate to their company,
     - It also creates easily accessible portfolio where I could establish my credibility and demonstrate my expertise in specific IT field.
+
 
 
 ### 3. Personal Practice WordPress backup Import/Exports<br>
