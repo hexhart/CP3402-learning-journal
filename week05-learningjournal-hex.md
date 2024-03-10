@@ -78,11 +78,12 @@
 
 
 ### 3. Personal Practice WordPress backup Import/Exports<br>
-  - Being familiarized with importing and exporting WordPress backup files allows the prevention of potential data loss or accidental changes to main WordPress website page contents or templates,
-  - The experience allowed me to encounter some challenges and limitation with the WordPress backup feature, particularly:
+  - Importing and exporting WordPress backup files highlights the importance of data loss prevention or accidental changes made to the website's content and pages in the production environment,
+  - The experience allowed encountering challenges, and exposing some limitation with the WordPress backup feature, particularly:
     - not being able to back up everything from the production website, when restoring backup to local the themes were not included.
     - assigning local users and production users could be confusing,
     - hyperlinks from the restored pages need to be updated locally by assigning the different page id's created.
     - Page ID from the production are assigned with a new ID when restored on the local environment.
-  - This additional exercise allowed me to understand more on the import and export of WordPress backup by performing the actual backup process,
-  - It also helped in validating my assumptions whether the WordPress backup feature fully or partially copies everything from production to the local environment.
+  - The experience allowed me to explore more about the build-in back up feature by creating and exporting backup files on both local and production environment, importing the backup files in the local environment, and observing what changed after the import was made.
+    - It also helped in validating my assumptions whether the WordPress backup feature fully or partially copies everything from production to the local environment.
+    
