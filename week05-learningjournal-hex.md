@@ -16,28 +16,58 @@
 **Estimated hours**: 5 Hours
 
 ## Content Insights
-* LinkedIn: WordPress - Building Child Themes 
-  - a
+* LinkedIn: WordPress - Building Child Themes & WordPress: Child Themes
+  - Create a new directory in the "wp-content/themes" directory in WordPress,
+  - Child Themes should follow their parent theme's name with the inclusion of "-child". i.e. naming "maintheme-child" from parent theme "maintheme"
+  - Modify the child theme using CSS codes,
+    - Achieved by creating Stylesheet, located inside the child theme directory and naming the file "style.css",
+    - The "style.css" file contains the stylesheet for the child theme.
+  - Adding Child Theme Information by editing the 'style.css' file and add header information at the top of the file.
+    - These header information includes Theme Name, URI, Description,Author, Author URI, Template, and Version.
+    - Note: The 'Template' field should contain the directory name of the parent theme.
+  - Create and use 'functions.php' within the Child theme directory to inherit the parent theme's styles to the child theme.
+    - Using the method of "[enqueuing the parent theme stylesheet](https://www.wpthemedetector.com/child-themes-enqueuing-the-parent-theme-stylesheet-instead-of-using-import/)" with a PHP code does the trick 
+  - After inheriting the styles, Child themes can be customized to my liking by adding custom CSS styles, and template files.
+  - In doing the above,creation of template files similar to parent themes directory will now be possible,
+    - WordPress will use the child theme's style versions instead.
+  - Activating the Child theme by going to Appearance > Themes on the WordPress admin dashboard, and clicking on Activate button located at the bottom right of the child theme.
+
 
 
 * LinkedIn: Learning Responsive Web Design in the Browser
   - a
 
 
-* WordPress Article: Child Themes
-  - a
-
-
 
 ## Career/Employability/Learning Insights
 
-### 1. <br>
-  - I gained 
+### 1. Working with Child Themes<br>
+  - I gained deeper understanding of how WordPress themes are structured through using:
+    1) Template files written in PHP such as index.php, header.php, and footer.php to determine the layout and structure of the WordPress site,
+    2) Stylesheets that uses CSS files to define visual appearance of the different sections of the website,
+    3) PHP functions to enable adding custom functionalities, modifying functionality, of the WordPress theme,
+  - These mentioned key knowledge enabled me to create and customize existing themes effectively or develop themes from scratch.
+  - Child themes taught me the importance of isolating customizations from a parent theme by creating separate directories,
+    - thus making it easier to update a parent theme without losing my modifications.
+  - Customizing Child theme allowed the opportunity to encounter design challenges and issues, allowing me to troubleshoot, and resolve them.
+    - This experience helps develop my critical thinking and troubleshooting abilities, and broaden my proficiency with using WordPress for website development.
+  - Creating child theme enables me to create customized WordPress solutions that can be employed to deliver custom website that would cater to Client's specific requirements.
 
 
-### 2. <br>
-  - I
+
+### 2. Creating a LinkedIn account<br>
+  - This social media platform allows me to connect with other professionals in different co-hort of the IT Industry,
+  - Sharing insights and interests allows me to be engaged in discussions with others that could lead to expanding my network, and also gaining new valuable skills and knowledge, allowing professional growth.
+  - The account enables me to be visible to potential employers looking to hire suitable candidate to their company,
+    - It also creates easily accessible portfolio where I could establish my credibility and demonstrate my expertise in specific IT field.
 
 
-### 3.  <br>
-  - I
+### 3. Personal Practice WordPress backup Import/Exports<br>
+  - Being familiarized with importing and exporting WordPress backup files allows the prevention of potential data loss or accidental changes to main WordPress website page contents or templates,
+  - The experience allowed me to encounter some challenges and limitation with the WordPress backup feature, particularly:
+    - not being able to back up everything from the production website, when restoring backup to local the themes were not included.
+    - assigning local users and production users could be confusing,
+    - hyperlinks from the restored pages need to be updated locally by assigning the different page id's created.
+    - Page ID from the production are assigned with a new ID when restored on the local environment.
+  - This additional exercise allowed me to understand more on the import and export of WordPress backup by performing the actual backup process,
+  - It also helped in validating my assumptions whether the WordPress backup feature fully or partially copies everything from production to the local environment.
