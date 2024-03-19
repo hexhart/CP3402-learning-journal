@@ -11,16 +11,27 @@
 **Estimated hours**: 3 Hours
 
 ## Content Insights
-* LinkedIn Video: 
-  - a
-
+* LinkedIn Video: Having Daily Stand-up Meetings
+  - Meetings to be held daily but not necessarily first thing in the morning, maybe around 9.30am
+  - Team stands and face each other to keep the meeting short,
+  - Each team has its own standup, merging with different team is not encouraged,
+  - Meeting should optimally be around 15 minutes, and end on time,
+  - Ask 3 important questions: What did I do yesterday? What am I doing today? Are there any obstacles?
+  - Developer should speak briefly, focusing on specific tasks,
+  - Meeting facilitated by a Scrum master and project manager but must not dominate,
+    - should reflect team's ability to self-organize.
+  - Scrum master should observe team dynamics and encourage members to interact,
+  - Non-developers only observe, not participate.
+  - Project managers should not take over standup meetings,
+    - works with Scrum master to ensure they don't undermine self-organization.
+  - Scrum master's role is to emphasize on fostering a collaborative environment where teams can self-manage effectively.
 
 
 
 ## Career/Employability/Learning Insights
 
 ### 1. Client Meeting <br>
-  - 
+  - I
 
 
 ### 2. Using and Exploring Trello<br>
