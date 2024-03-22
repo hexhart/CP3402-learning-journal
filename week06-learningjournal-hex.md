@@ -52,9 +52,9 @@
     - trying to keep track of what needed to be done,
     - what code changes were made, 
     - and who was responsible for each task. 
-  It was a chaotic mess that often led to missed deadlines and confusion within my project teams. 
-    - Integrating GitHub repositories with Trello boards, I've learned the immense value of consolidating project resources and workflows. 
+  - Integrating GitHub repositories with Trello boards, I've learned the immense value of consolidating project resources and workflows. 
     - Now, everything I need is neatly organized within a single platform. 
     - I can see the status of code commits, review pull requests, and assign tasks—all within the context of our project boards on Trello.
-This integration has not only streamlined my workflow but has also fostered greater efficiency and collaboration among my team members. No longer are we lost in a sea of emails and scattered documents; instead, we're all on the same page, working towards our common goals with clarity and purpose.
+  - This integration has fostered greater efficiency and collaboration among my team members. 
+    - We're all on the same page, working towards our common goals with clarity and purpose.
 
