@@ -1,4 +1,4 @@
-# Week 5 Learning Journal <br/>
+# Week 7 Learning Journal <br/>
 
 ## Learning Activities & Resources
 * Attending the seminar class to gather additional feedback for improvement in creating my learning journal,
