@@ -17,12 +17,12 @@
     - Electronically design prototypes and wireframe designs for websites,
   - Implementing such changes significantly improves my efficiency and organization in group work setting and dynamics,
   - Assuming Trello enables enhancement in team collaboration and streamline project management processes.
+  
 - Hypothesis 2:
-  - Instead of lengthy discord voice chat meetings, we implement stand-up meetings physically instead,
-  - Assuming that we are able to gain more out of having frequent stand-up physical meetups instead of online chat conference.
+  - Instead of lengthy discord voice chat meetings, we implement stand-up meetings physically to gain more out of our project time efficiency and productivity.
   
   
-## Result: 
+## Experiment Results: 
 ### 1. Using Trello to manage the project: 
   - The experiment demonstrated efficiency and organization within the group work settings by:
     - Enabling simultaneous creation of tasks, member assignment, to-do list creation, in one place,
@@ -56,7 +56,7 @@
 
 ## Career/Employability/Learning Insights
 
-### Standup Meetings Insight<br>
+### Standup Meetings Learning Insight<br>
   - While stand-up meetings are essential and are intended to be short and focused, it is important to stick to a particular timeframe to ensure efficient use of the meeting time,
   - Encouragement are necessary for members to participate and contribute,
   - Adopting to the three-question format to ensure the meeting is focused, 
