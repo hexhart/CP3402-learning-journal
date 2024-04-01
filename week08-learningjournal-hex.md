@@ -79,5 +79,15 @@
     - It requires time in getting to know newly added member and develop a rapport as compared to peers whom I have worked with in past projects,
     - Sometimes the meeting can be counterproductive if the discussion is often being interrupted especially when one member is providing their progress update,
 
+### Moving on to electronic tools to do project collaboration<br>
+  - Experimenting on using software tools for project management and designing website wireframes or prototypes allowed me:
+    - To work efficiently,
+    - Be more productive,
+    - Adaptable to modern tools used in the IT industry,
+  - While using project management tools improves my employability, I have to acknowledge the learning curve in getting familiarized with these tools,
+    - As a result, I faced a roadblock in trying to incorporate these new tools into my usual workflow,
+    - Thus causing a slight delay in my progress,
+  - Nevertheless, being able to use the basic functions as a starting point and getting to an acceptable level of proficiency with the tools has improved my efficiency with working on my tasks.
+
 
 
