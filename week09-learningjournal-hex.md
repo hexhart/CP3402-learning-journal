@@ -13,36 +13,29 @@
 **Estimated hours**: 4 Hours
 
 ## Content Insights
-* LinkedIn Video: 
+* LinkedIn Video Insight: 
   - a
 
 
-* Practical Reading Material 1: 
+* Installing software required for the task: 
   - a
 
 
-* Practical Reading Material 2: 
-  - a
-
-
-* Practical Reading Material 3: 
-  - a 
-
-
-
-* YouTube Video & Web Article: 
-   - 
-
+    
 
 ## Career/Employability/Learning Insights
 
-### 1. <br>
+### Learning about SASS<br>
   - I gained 
 
-
-### 2. <br>
-  - I
-
-
-### 3.  <br>
-  - I
+### Practical Insight<br>
+  - Additional practical task submission at this point of the subject feels too redundant,
+    - Working on this task while attempting the group assignment demands more of my time compared to other subjects,
+    - While time availability was an issue, I was not able to explore more this topic hence the outcome of my deliverable submission,
+  - Despite this ordeal, doing the practical task and assignment simultaneously tests my ability to:
+    - work under-pressure by keeping calm and being motivated to push through,
+    - work smartly through prioritization of the tasks based on their importance and deadline
+  - This task allowed me to demonstrate my ability to: 
+    - Become more adaptable by embracing on new methods to tackle the tasks while sticking to the deadline,
+    - Focus on prioritizing tasks,
+    - Overcome obstacles such as being stressed, overwhelmed and unmotivated,
