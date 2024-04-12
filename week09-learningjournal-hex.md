@@ -4,7 +4,6 @@
 * Watching LinkedIn Video on [Sass Essential Training](https://www.linkedin.com/learning/sass-essential-training-15630917/sass-requirements?u=2223545) to gain understanding of week 9 focus topic,
 * Installing Node.js, Setting up Vite and other software required for Sass to begin working on the task requirements,
 * Reading the README.md file for [nodejs/node-gyp Git repository](https://github.com/nodejs/node-gyp#on-windows) to find out how to install and start using Node.js,
-* Following the Getting Started guide for [Vite](https://vitejs.dev/guide/) to install Vite and understand what it is used for in this practical exercise,
 * Exploring the website, [raybo.org/slides_sassesst](https://raybo.org/slides_sassesst/#/), that was mentioned in the LindkedIn video. 
 
 
@@ -13,23 +12,23 @@
 
 ## Content Insights
 * LinkedIn Video Insight: 
-  - Understanding the two flavours of SASS (Sass and SCSS), provides clarity on the options available for writing the stylesheet,
-  - Learning about the SASS syntax reveals the difference in approach between the indented format of SASS and the more familiar SCSS formatting,
-  - Realizing that SASS eliminates a lot of punctuation, making it feel more lightweight and intuitive, benefits from writing cleaner codes,
+  - Understanding the two flavours of Sass (Sass and SCSS), provides clarity on the options available for writing the stylesheet,
+  - Learning about the Sass syntax reveals the difference in approach between the indented format of SASS and the more familiar SCSS formatting,
+  - Realizing that Sass eliminates a lot of punctuation, making it feel more lightweight and intuitive, benefits from writing cleaner codes,
   - Identifying that SCSS maintains full compatibility with CSS,
     - it facilitates seamless integration of existing CSS code which can be appealing to developers who aim for ease of migration and maintainability,
   - Variables in SASS provide a way to create a placeholder for values which allows me to efficiently manage and use styles,
   - SASS variables are:
-    - Usually written with a dollar sign followed by the variable name, similar to CSS properly declarations, but with added functionlity to use expressions and formulas,
+    - Usually written with a dollar sign followed by the variable name, similar to CSS properly declarations, but with added functionality to use expressions and formulas,
     - It is always converted to CSS during compilation which reduces the CSS output,
-    - It typically has a global scope which makes it accessible throughout the stylesheet and it can also be defined locally within curly braces of a specific code block(S),
+    - It typically has a global scope which makes it accessible throughout the stylesheet, and it can also be defined locally within curly braces of a specific code block(S),
   - Mixins feels similar to JavaScript functions, which makes styling flow more efficient,
   - Using @mixin rules to define a mixin, followed by a name and optional arguments, this also includes the default values if required.
     - It can be called using the @include at-rule,
     - This can be done with specific parameter values or without passing any values,
   - Always use descriptive names that accurately reflect their purpose and function for readability and maintenance of code,
   - Be careful when using mixin as this has performance implications such as generating large amount of CSS output.
-    - Optimize mixins by generating minimal CSS output, avoiding unecessary properties or declarations,
+    - Optimize mixins by generating minimal CSS output, avoiding unnecessary properties or declarations,
     - Use placeholder selectors (%selector) instead of classes or IDs within the mixins,
     - Limit nesting within mixins.
 
@@ -58,7 +57,7 @@
 
 ## Career/Employability/Learning Insights
 
-### Learning about SASS<br>
+### Learning about Sass<br>
   - This practical exercise enabled me to improve the way I write my CSS code by allowing to:
     - organize the variables, nesting, mixins, and inheritance in separate files,
     - these separate files are placed into a more structured directory,
