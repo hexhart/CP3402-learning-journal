@@ -14,11 +14,11 @@
 
 ## Content Insights
 * LinkedIn Video Insight: 
-  - a
+  - To be posted later after draft is completed
 
 
 * Installing software required for the task: 
-  - a
+  - To be posted later after draft is completed
 
 
     
@@ -26,7 +26,7 @@
 ## Career/Employability/Learning Insights
 
 ### Learning about SASS<br>
-  - I gained 
+  - Sass extends the functionality of CSS by allowing the use variables, nesting, mixins, and inheritance.
 
 ### Practical Insight<br>
   - Additional practical task submission at this point of the subject feels too redundant,
