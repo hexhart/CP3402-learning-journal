@@ -8,7 +8,6 @@
 * Exploring the website, [raybo.org/slides_sassesst](https://raybo.org/slides_sassesst/#/), that was mentioned in the LindkedIn video. 
 
 
-
 ## Estimated Hours
 **Estimated hours**: 4 Hours
 
@@ -18,7 +17,14 @@
 
 
 * Installing software required for the task: 
-  - To be posted later after draft is completed
+  - Node.js installed using installers for windows,
+  - Create the project structure/directory,
+  - Create the necessary files .scss, .html, most importantly gulpfile.js, adding content to package.json,
+    - After file creation, run 'npm install' in the project directory to install the Gulp and the plugins,
+    - Run command 'npm run gulp' to compile Sass and see the changes in the terminal,
+  - Use command 'npm init -y' to initialize the new npm project, this creates the package.json file,
+  - SCSS styles are written in 'src/scss/styles.scss' and variables are defined in the '_variables.scss'.
+  - 
 
 
     
