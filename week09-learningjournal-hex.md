@@ -13,8 +13,25 @@
 
 ## Content Insights
 * LinkedIn Video Insight: 
-  - To be posted later after draft is completed
-
+  - Understanding the two flavours of SASS (Sass and SCSS), provides clarity on the options available for writing the stylesheet,
+  - Learning about the SASS syntax reveals the difference in approach between the indented format of SASS and the more familiar SCSS formatting,
+  - Realizing that SASS eliminates a lot of punctuation, making it feel more lightweight and intuitive, benefits from writing cleaner codes,
+  - Identifying that SCSS maintains full compatibility with CSS,
+    - it facilitates seamless integration of existing CSS code which can be appealing to developers who aim for ease of migration and maintainability,
+  - Variables in SASS provide a way to create a placeholder for values which allows me to efficiently manage and use styles,
+  - SASS variables are:
+    - Usually written with a dollar sign followed by the variable name, similar to CSS properly declarations, but with added functionlity to use expressions and formulas,
+    - It is always converted to CSS during compilation which reduces the CSS output,
+    - It typically has a global scope which makes it accessible throughout the stylesheet and it can also be defined locally within curly braces of a specific code block(S),
+  - Mixins feels similar to JavaScript functions, which makes styling flow more efficient,
+  - Using @mixin rules to define a mixin, followed by a name and optional arguments, this also includes the default values if required.
+    - It can be called using the @include at-rule,
+    - This can be done with specific parameter values or without passing any values,
+  - Always use descriptive names that accurately reflect their purpose and function for readability and maintenance of code,
+  - Be careful when using mixin as this has performance implications such as generating large amount of CSS output.
+    - Optimize mixins by generating minimal CSS output, avoiding unecessary properties or declarations,
+    - Use placeholder selectors (%selector) instead of classes or IDs within the mixins,
+    - Limit nesting within mixins.
 
 * Installing software required for the task: 
   - Node.js installed using installers for windows,
@@ -35,13 +52,23 @@
     - const sass = require('gulp-sass')(require('node-sass'));
       - this line imports the gulp-sass package and passes node-sass as the compiler.
       - gulp-sass is the Gulp plugin for compiling the sass files to CSS.
-    
+  - index.html is where to view the Sass website,
+  - Use command 'npm cache clean --force' when encountering Corrupted npm cache,
     
 
 ## Career/Employability/Learning Insights
 
 ### Learning about SASS<br>
-  - Sass extends the functionality of CSS by allowing the use variables, nesting, mixins, and inheritance.
+  - This practical exercise enabled me to improve the way I write my CSS code by allowing to:
+    - organize the variables, nesting, mixins, and inheritance in separate files,
+    - these separate files are placed into a more structured directory,
+  - Despite the advantage of using Sass, I found out that there are limitations which include:
+    - the difficulty to compile the Sass into the standard CSS adds complexity in the development workflow,
+    - the learning curve to get familiarized with the syntax was steep,
+    - Sass files size can become large, and it becomes very unmanageable if not organized properly,
+  - Familiarity with Sass is required in the IT industry, hence this is an advantage for me when working with web development projects,
+  - Possessing this skill ensures that I remain competitive in the job market as learning Sass demonstrates my commitment to professional growth and staying updated with industry trends and best practices in web development.
+
 
 ### Practical Insight<br>
   - Additional practical task submission at this point of the subject feels too redundant,
@@ -54,3 +81,4 @@
     - Become more adaptable by embracing on new methods to tackle the tasks while sticking to the deadline,
     - Focus on prioritizing tasks,
     - Overcome obstacles such as being stressed, overwhelmed and unmotivated,
+    
