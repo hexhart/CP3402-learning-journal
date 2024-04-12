@@ -24,9 +24,18 @@
     - Run command 'npm run gulp' to compile Sass and see the changes in the terminal,
   - Use command 'npm init -y' to initialize the new npm project, this creates the package.json file,
   - SCSS styles are written in 'src/scss/styles.scss' and variables are defined in the '_variables.scss'.
-  - 
-
-
+  - Within gulpfile.js:
+    - const { src, dest, watch, series, task } = require('gulp');
+      - This code imports the functions from the gulp package,
+      - src gets the source files that needed to be manipulated,
+      - dest to output the manipulated files,
+      - watch to watch the file changes,
+      - series to execute tasks in series,
+      - tasks to define a new task,
+    - const sass = require('gulp-sass')(require('node-sass'));
+      - this line imports the gulp-sass package and passes node-sass as the compiler.
+      - gulp-sass is the Gulp plugin for compiling the sass files to CSS.
+    
     
 
 ## Career/Employability/Learning Insights
