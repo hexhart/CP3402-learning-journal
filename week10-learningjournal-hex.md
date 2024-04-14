@@ -1,55 +1,21 @@
-# Week 5 Learning Journal <br/>
+# Week 10 Learning Journal <br/>
 
 ## Learning Activities & Resources
-* Attending the seminar class to gather additional feedback for improvement in creating my learning journal,
-* Taking notes on the feedback and reflecting on it by applying new approaches to my writing,
-* Conducting research to get familiarised with the concept of Local Environment using Vagrant tool and Virtual Box,
-* Reading and watching the recommended LinkedIn videos to gain better understanding on Modern Web Design processes and how it relates to CMS,
-* Following installation guides and tutorials videos for both implementing my local environment using Vagrant and Varying-Vagrant-Vagrants (VVV) tools.
-* Learning Resources used:
-  - Study Materials:
-      - []()
-      - []()
-      - []()
-  - Practical Material:
-      - []()
-      - []()
-      - []()
+* Attending and collaborating with group members in preparation for the final presentation via Discord,
+* Brainstorming for ideas of the flow of the presentation and information to include,
+* Used Google Docs to create our presentation notes,
+* 
 
 ## Estimated Hours
-**Estimated hours**:  Hours
+**Estimated hours**: 8 Hours
 
 ## Content Insights
-* LinkedIn Video: 
-  - a
+* [Rehearsal Video](https://youtu.be/Ah6cvphD-U0) 
+  - 
 
-
-* Practical Reading Material 1: 
-  - a
-
-
-* Practical Reading Material 2: 
-  - a
-
-
-* Practical Reading Material 3: 
-  - a 
-
-
-
-* YouTube Video & Web Article: 
-   - 
 
 
 ## Career/Employability/Learning Insights
 
 ### 1. <br>
-  - I gained 
-
-
-### 2. <br>
-  - I
-
-
-### 3.  <br>
-  - I
+  -  
