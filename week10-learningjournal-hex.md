@@ -49,16 +49,43 @@
 ## Career/Employability/Learning Insights
 
 ### 1. Preparation is key <br>
-  -  
+  - This activity (presentation rehearsal) made me realize the importance of preparing for success in any future endeavors,
+  - Being prepared allows to see mistakes and room for improvement particularly unforeseen technical issues that may arise during presentation, this includes:
+    - Browser unresponsive or loading website was slow,
+    - Freezing computer that requires unexpected emergency system reboot,
+    - Server crashing and unable to show the updates made when pushing updates from local to staging,
+  - I find it particularly satisfying when the presentation went smoothly without technical hiccups when all machines from each team were performing well,
+
 
 ### 2. Practice makes perfect <br>
-  -  
+  - The mistakes made and captured in our rehearsal records helped us see our mistakes and make major improvements,
+    - We had to make several versions of our individual notes and tried presenting our content within the required time limit,
+    - The challenge of making a perfect presentation is that, there will be unexpected mistakes that may occur,
+      - Particularly when a team member are caught off guard to present their content,
+      - This was addressed by creating a transition line to utter before moving to the next presentation.
+    - This has boosted our team's confident when we presented the actual presentation.
 
 ### 3. Gaps identification <br>
-  -  
+  -  Rehearsing with an unfinished plan was initially daunting, but it turned out to be a blessing in disguise. 
+    - It forced me to confront areas where I needed to improve, especially my pronounciation and talking clearly,
+    - This pushed me out of my comfort zone. 
+  - Through this process, I've noticed significant growth in my ability to adapt and refine my ideas on the fly.
 
-### 4. Time management <br>
-  -  
+### 4. Accepting feedback and improvement <br>
+  - I found the feedback sessions after our trial presentation to be incredibly beneficial. 
+  - Hearing insights from my teammates helped me gain a fresh perspective on our presentation, and identify areas where I could contribute more effectively.
+  - The collaboration and open communication made me feel empowered and this led to improvements in our presentation.
+  - 
 
-### 5. Accepting feedback and improvement <br>
-  -  
+### 5. Overcoming challenges <br>
+  - We faced the challenge of:
+    - Reducing our demonstration and presentation speech without affecting the content, and
+    - Limiting our content for each team member to present within exactly 10 minutes ,
+    - Aiming to ensure our demonstration was both realistic and impactful.
+  - This experience allowed my team and I to learn how to manage our time and persevere.  
+    - We were able to fine-tune our demonstration to effectively showcase the key features of our project.
+    - Tried reducing our content as close to the required time limit,
+    - Ensured each team member has equal and impactful parts to present.
+  - This experience taught me and my team the importance of patience, staying calm under pressure, and resilience in the face of adversity.
+    - In the end, we managed to record our presentation within the time limit with no mistakes, and also covering the presentation rubric.
+  
