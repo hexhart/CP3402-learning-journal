@@ -86,5 +86,5 @@
     - Tried reducing our content as close to the required time limit,
     - Ensured each team member has equal and impactful parts to present.
   - This experience taught me and my team the importance of patience, staying calm under pressure, and resilience in the face of adversity.
-    - In the end, we managed to record our presentation within the time limit with no mistakes, and also covering the presentation rubric.
+    - In the end, we managed to record our presentation with minor mistakes while ensuring that we have covered the presentation rubric.
   
