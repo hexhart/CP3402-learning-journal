@@ -75,7 +75,6 @@
   - I found the feedback sessions after our trial presentation to be incredibly beneficial. 
   - Hearing insights from my teammates helped me gain a fresh perspective on our presentation, and identify areas where I could contribute more effectively.
   - The collaboration and open communication made me feel empowered and this led to improvements in our presentation.
-  - 
 
 ### 5. Overcoming challenges <br>
   - We faced the challenge of:
