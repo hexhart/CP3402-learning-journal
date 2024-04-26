@@ -2,9 +2,9 @@
 
 ## Learning Activities & Resources
 * Attending the final group meeting to discuss and prepare the content for the final presentation via Discord,
-* Brainstorming ideas with teammates of the presentation slow, assigning each member their parts, and content to include,
-* Creating our individual content to present using Google Docs,
-* Rehearse a mockup presentation as a group to find out our performance, receive feedback, make changes and repeat the process.
+* Brainstorming ideas of the presentation flow, assigning each member's presentation parts, and individual content,
+* Collaboratively creating our presentation dialogue using Google Docs,
+* Rehearsing mockup presentations as a group to find out our performance, receive feedback, make changes and repeat the process until our work was satisfactory.
 
 ## Estimated Hours
 **Estimated hours**: 8 Hours
